@@ -200,5 +200,6 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snap[west span-40 pro-feature-details]
 @fa[quote-left] Every Question Matters.
 The Ultimate Q&A and Polling Platform for Company Meetings and Events
+[sli.dk](https://www.sli.do/)
 @snapend
 
