@@ -11,7 +11,7 @@
 
 ---
 @snap[north-west montserrat-heavy heading-black]
-## Agenda
+## @css[faded text-05](Agenda)
 @snapend
 
 - 13:00 – 13:15    Velkommen
