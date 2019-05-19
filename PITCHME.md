@@ -178,7 +178,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 +++?image=./images/sli_do.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### Sli@css[faded text-05](.do)
+#### Quickdraw.WithGoogle@css[faded text-05](.com)
 @snapend
 
 @snap[east span-50]
