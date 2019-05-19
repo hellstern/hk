@@ -21,7 +21,10 @@
 - 15:45 – 16:00    Opsamling/Spørgsmål
 
 --- 
-# Jeres Opgaver
+
+@snap[north-west montserrat-heavy heading-white]
+## Jeres @css[faded text-05](Jeres Opgaver)
+@snapend
 
 - Big Data
 - Synlighedsarrangementer – nytænkning
@@ -29,7 +32,9 @@
 - Robot
 
 ---
-# Sjov med innovativ IT
+@snap[north-west montserrat-heavy heading-white]
+## Sjov med innovativ @css[faded text-05](IT)
+@snapend
 
 
 +++?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
