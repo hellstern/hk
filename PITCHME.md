@@ -1,20 +1,15 @@
 ---?image=assets/img/presenter.jpg&opacity=100&size=cover
-@title[Now It's Your Turn]
+@title[HK]
 
 @snap[north-west montserrat-heavy heading-white]
-## GitPitch@css[faded text-05](.com)
+## HK@css[faded text-05](23-05-2019)
 @snapend
 
 @snap[west raleway-medium h4-white span-50]
-#### For @css[text-smallcaps text-18](Everyone)
+#### @css[text-smallcaps text-18](Hans & Tue)
 @snapend
 
-@snap[south-west raleway-medium text-white text-08]
-On GitHub @fa[github fa-font], GitLab @fa[gitlab fa-font], and Bitbucket @fa[bitbucket fa-font]
-@snapend
-
-# HK 23-05-2019
-Hans og Tue
+---
 
 # Agenda
 
