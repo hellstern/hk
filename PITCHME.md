@@ -21,6 +21,9 @@
 - 15:00 – 15:45    Hans
 - 15:45 – 16:00    Opsamling/Spørgsmål
 
+@snap[south span-100 feature-details]
+[https://gitpitch.com/hellstern/hk](https://gitpitch.com/hellstern/hk)
+@snapend 
  
 +++?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
@@ -179,7 +182,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snapend
 
 @snap[east span-50]
-![](assets/img/sli_do.png)
+![](assets/img/quickdraw.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
@@ -197,7 +200,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snapend
 
 @snap[east span-50]
-![](assets/img/sli_do.png)
+![](assets/img/autodraw.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
@@ -215,7 +218,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snapend
 
 @snap[east span-50]
-![](assets/img/sli_do.png)
+![](assets/img/https://gitpitch.com/hellstern/hk.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
