@@ -21,55 +21,7 @@
 - 15:00 – 15:45    Hans
 - 15:45 – 16:00    Opsamling/Spørgsmål
 
---- 
-
-@snap[north-west montserrat-heavy heading-black]
-## Jeres @css[faded text-05](Opgaver)
-@snapend
-
-- Big Data
-- Synlighedsarrangementer – nytænkning
-- App
-- Robot
-
----
-
-@snap[north-west montserrat-heavy heading-black]
-## Sjov med innovativ @css[faded text-05](IT)
-@snapend
-
-
-+++?image=assets/img/audience.png&size=100% 40%
-
-@snap[north-east raleway-medium span-55]
-#### Loom@css[faded text-05](.org)
-[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
-@snapend
-
-@snap[east span-50]
-![](assets/img/features-desktop.png)
-@snapend
-
-@snap[west span-40 pro-feature-details]
-@fa[quote-left] Loomio is an app that helps people have discussions and make decisions together
-@snapend
-
-+++?image=assets/img/audience.png&size=100% 40%
-
-@snap[north-east raleway-medium span-55]
-#### Sli@css[faded text-05](.do)
-[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
-@snapend
-
-@snap[east span-50]
-![](assets/img/features-desktop.png)
-@snapend
-
-@snap[west span-40 pro-feature-details]
-@fa[quote-left] Every Question Matters.
-The Ultimate Q&A and Polling Platform for Company Meetings and Events
-@snapend
-
+ 
 +++?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
 
@@ -203,3 +155,53 @@ Enjoy great features tailored specifically for conference speakers and training 
 @snap[south span-100 feature-details]
 Thanks to first-class support for modular markdown you can develop and publish modular slideshows. Share the complete slide deck. Or share select mini-decks with your audience @fa[quote-right]
 @snapend
+
+---
+
+@snap[north-west montserrat-heavy heading-black]
+## Jeres @css[faded text-05](Opgaver)
+@snapend
+
+- Big Data
+- Synlighedsarrangementer – nytænkning
+- App
+- Robot
+
+---
+
+@snap[north-west montserrat-heavy heading-black]
+## Sjov med innovativ @css[faded text-05](IT)
+@snapend
+
+
++++?image=assets/img/audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Loom@css[faded text-05](.org)
+[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
+@snapend
+
+@snap[east span-50]
+![](assets/img/features-desktop.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Loomio is an app that helps people have discussions and make decisions together
+@snapend
+
++++?image=assets/img/audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Sli@css[faded text-05](.do)
+[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
+@snapend
+
+@snap[east span-50]
+![](assets/img/features-desktop.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Every Question Matters.
+The Ultimate Q&A and Polling Platform for Company Meetings and Events
+@snapend
+
