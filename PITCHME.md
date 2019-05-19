@@ -2,7 +2,7 @@
 @title[HK]
 
 @snap[north-west montserrat-heavy heading-white]
-## HK@css[faded text-05](23-05-2019)
+## HK@css[faded text-05](  23-05-2019)
 @snapend
 
 @snap[west raleway-medium h4-white span-50]
