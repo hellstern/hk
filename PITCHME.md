@@ -234,7 +234,7 @@ AI Experiment
 +++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### Loom@css[faded text-05](.org)
+#### Loomio@css[faded text-05](.org)
 @snapend
 
 @snap[east span-50]
