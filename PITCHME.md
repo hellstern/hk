@@ -186,7 +186,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @fa[quote-left] Loomio is an app that helps people have discussions and make decisions together
 @snapend
 
-+++?image=assets/img/sli_do.png&size=100% 40%
++++?image=images/sli_do.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### Sli@css[faded text-05](.do)
