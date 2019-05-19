@@ -15,7 +15,7 @@
 @snapend
 
 - 13:00 – 13:15    Velkommen
-- 13:15 – 14:00    Jeres Opgave (Der er 4 grupper)
+- 13:15 – 14:00    Jeres Opgave - 4 grupper
 - 14:00 – 14:15    Pause
 - 14:15 – 15:00    Sjov med innovativ IT
 - 15:00 – 15:45    Hans
@@ -63,8 +63,6 @@
 @fa[quote-left] Use GitPitch Desktop to export any slide deck to Microsoft
 PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and SlideShare.
 @snapend
-
-
 
 +++?image=assets/img/audience.png&size=100% 40%
 
@@ -172,7 +170,6 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snap[north-west montserrat-heavy heading-black]
 ## Sjov med innovativ @css[faded text-05](IT)
 @snapend
-
 
 +++?image=assets/img/audience.png&size=100% 40%
 
