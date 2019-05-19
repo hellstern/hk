@@ -20,6 +20,17 @@
 - 15:00 – 15:45    Hans
 - 15:45 – 16:00    Opsamling/Spørgsmål
 
+--- 
+# Jeres Opgaver
+
+- Big Data
+- Synlighedsarrangementer – nytænkning
+- App
+- Robot
+
+---
+# Sjov med innovativ IT
+
 
 +++?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
@@ -140,7 +151,7 @@ Present any fenced code-block, repository source file, or GitHub GIST. Focus-on 
 Enjoy great features tailored specifically for conference speakers and training instructors. Including speaker notes, a dedicated speaker window, and support for remote control devices @fa[quote-right]
 @snapend     
 
----
++++
 
 @snap[north raleway-medium span-80]
 ### Modular Slideshows
