@@ -171,6 +171,63 @@ Thanks to first-class support for modular markdown you can develop and publish m
 ## Sjov med innovativ @css[faded text-05](IT)
 @snapend
 
+
++++?image=./images/sli_do.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Sli@css[faded text-05](.do)
+@snapend
+
+@snap[east span-50]
+![](assets/img/sli_do.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Can a neural network learn to recognize doodling?
+@snapend
+
+@snap[south span-100 feature-details]
+[Quick Draw](https://quickdraw.withgoogle.com/)
+@snapend  
+
++++?image=./images/quickdraw.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Autodraw@css[faded text-05](.com)
+@snapend
+
+@snap[east span-50]
+![](assets/img/sli_do.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Din tegning
+@snapend
+
+@snap[south span-100 feature-details]
+[www.autodraw.com](https://www.autodraw.com/)
+@snapend  
+
++++?image=./images/sli_do.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Teachablemachine.WithGoogle@css[faded text-05](.com)
+@snapend
+
+@snap[east span-50]
+![](assets/img/sli_do.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Every Question Matters.
+AI Experiment
+@snapend
+
+@snap[south span-100 feature-details]
+[teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
+@snapend  
+
+
 +++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
