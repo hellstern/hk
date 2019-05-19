@@ -218,7 +218,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snapend
 
 @snap[east span-50]
-![](assets/img/https://gitpitch.com/hellstern/hk.png)
+![](assets/img/teachable.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
