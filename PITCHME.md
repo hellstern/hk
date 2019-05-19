@@ -178,7 +178,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-desktop.png)
+![](assets/img/loomio.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
