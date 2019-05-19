@@ -42,7 +42,7 @@
 +++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### Loom
+#### Loom@css[faded text-05](.org)
 [Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
 @snapend
 
