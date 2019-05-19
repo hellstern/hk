@@ -32,7 +32,7 @@
 # GitPitch@css[faded text-05](.com)
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
++++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Desktop
@@ -47,11 +47,7 @@
 @fa[quote-left] Enjoy a dedicated desktop tool on Linux, OSX, and Windows<sup>1</sup> for developing and presenting offline. See local changes to your presentation instantly reflected in a live preview in your browser.
 @snapend
 
-@snap[south-west text-03]
-1. Windows 10 Pro + Enterprise Editions
-@snapend
-
----?image=assets/img/audience.png&size=100% 40%
++++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Export
@@ -69,7 +65,7 @@ PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and S
 
 
 
----?image=assets/img/audience.png&size=100% 40%
++++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Security
@@ -84,7 +80,7 @@ PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and S
 @fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use GitPitch to secure your content and manage your slideshow audience in the cloud.
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
++++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Surveys
@@ -99,7 +95,7 @@ PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and S
 @fa[quote-left] Turn any slideshow into a two-way conversation. Deliver your message using a GitPitch slide deck. Then gather feedback from your audience long after you leave the stage using rich, professional surveys.
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
++++?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Power
@@ -114,7 +110,7 @@ PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and S
 @fa[quote-left] Beyond GitPitch Desktop, Security, and Surveys...Pro + Lite users enjoy powerful slideshow features including image opacity, UML diagrams, code zoom, Google Web Fonts, and Emojis @emoji[heart_eyes]
 @snapend
 
----
++++
 
 @snap[north raleway-medium span-80]
 ### Live Code Presenting
@@ -129,7 +125,7 @@ PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and S
 Present any fenced code-block, repository source file, or GitHub GIST. Focus-on and step-through specific code snippets, loops, functions, output, etc. from directly within your slide deck @fa[quote-right]
 @snapend     
 
----
++++
 
 @snap[north raleway-medium span-80]
 ### Speaker Support
