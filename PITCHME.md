@@ -1,4 +1,15 @@
-# HK Agenda
+# HK 23-05-2019
+Hans og Tue
+
+# Agenda
+
+- 13:00 – 13:15    Velkommen
+- 13:15 – 14:00    Jeres Opgave (Der er 4 grupper)
+- 14:00 – 14:15    Pause
+- 14:15 – 15:00    Sjov med innovativ IT
+- 15:00 – 15:45    Hans
+- 15:45 – 16:00    Opsamling/Spørgsmål
+
 
 ---?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
