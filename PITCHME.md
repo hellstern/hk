@@ -51,7 +51,23 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Enjoy a dedicated desktop tool on Linux, OSX, and Windows<sup>1</sup> for developing and presenting offline. See local changes to your presentation instantly reflected in a live preview in your browser.
+@fa[quote-left] Loomio is an app that helps people have discussions and make decisions together
+@snapend
+
++++?image=assets/img/audience.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Sli@css[faded text-05](.do)
+[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
+@snapend
+
+@snap[east span-50]
+![](assets/img/features-desktop.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Every Question Matters.
+The Ultimate Q&A and Polling Platform for Company Meetings and Events
 @snapend
 
 +++?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
