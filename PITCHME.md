@@ -10,8 +10,9 @@
 @snapend
 
 ---
-
-# Agenda
+@snap[north-west montserrat-heavy heading-black]
+## Agenda
+@snapend
 
 - 13:00 – 13:15    Velkommen
 - 13:15 – 14:00    Jeres Opgave (Der er 4 grupper)
@@ -22,7 +23,7 @@
 
 --- 
 
-@snap[north-west montserrat-heavy heading-white]
+@snap[north-west montserrat-heavy heading-black]
 ## Jeres @css[faded text-05](Jeres Opgaver)
 @snapend
 
@@ -32,7 +33,7 @@
 - Robot
 
 ---
-@snap[north-west montserrat-heavy heading-white]
+@snap[north-west montserrat-heavy heading-black]
 ## Sjov med innovativ @css[faded text-05](IT)
 @snapend
 
