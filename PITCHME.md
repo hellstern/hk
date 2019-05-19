@@ -1,9 +1,12 @@
+---?image=assets/img/presenter.jpg&opacity=100&size=cover
+@title[Now It's Your Turn]
+
 @snap[north-west montserrat-heavy heading-white]
-## HK 23-05-2019[faded text-05](.com)
+## GitPitch@css[faded text-05](.com)
 @snapend
 
 @snap[west raleway-medium h4-white span-50]
-#### Hans & Tue[text-smallcaps text-18](Everyone)
+#### For @css[text-smallcaps text-18](Everyone)
 @snapend
 
 @snap[south-west raleway-medium text-white text-08]
