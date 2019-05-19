@@ -174,6 +174,11 @@ Thanks to first-class support for modular markdown you can develop and publish m
 ## Sjov med innovativ @css[faded text-05](IT)
 @snapend
 
+- Quickdraw
+- Autodraw
+- Teachablemachine
+- Loomio
+- Sli
 
 +++?image=./images/sli_do.png&size=100% 40%
 
