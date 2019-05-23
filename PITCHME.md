@@ -178,10 +178,30 @@ Thanks to first-class support for modular markdown you can develop and publish m
 ## Sjov med innovativ @css[faded text-05](IT)
 @snapend
 
+- Sli
 - Quickdraw
 - Autodraw
 - Teachablemachine
-- Sli
+
++++?image=./images/sli_do.png&size=100% 40%
+
+@snap[north-east raleway-medium span-55]
+#### Sli@css[faded text-05](.do)
+@snapend
+
+@snap[east span-50]
+![](assets/img/sli_do.png)
+@snapend
+
+@snap[west span-40 pro-feature-details]
+@fa[quote-left] Every Question Matters.
+The Ultimate Q&A and Polling Platform for Company Meetings and Events
+#M099
+@snapend
+
+@snap[south span-100 feature-details]
+[sli.do](https://www.sli.do/)
+@snapend 
 
 +++?image=./images/sli_do.png&size=100% 40%
 
@@ -236,25 +256,6 @@ AI Experiment
 
 @snap[south span-100 feature-details]
 [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
-@snapend  
-
-+++?image=./images/sli_do.png&size=100% 40%
-
-@snap[north-east raleway-medium span-55]
-#### Sli@css[faded text-05](.do)
-@snapend
-
-@snap[east span-50]
-![](assets/img/sli_do.png)
-@snapend
-
-@snap[west span-40 pro-feature-details]
-@fa[quote-left] Every Question Matters.
-The Ultimate Q&A and Polling Platform for Company Meetings and Events
-@snapend
-
-@snap[south span-100 feature-details]
-[sli.do](https://www.sli.do/)
-@snapend  
+@snapend 
 
 
