@@ -181,7 +181,6 @@ Thanks to first-class support for modular markdown you can develop and publish m
 - Quickdraw
 - Autodraw
 - Teachablemachine
-- Loomio
 - Sli
 
 +++?image=./images/sli_do.png&size=100% 40%
@@ -237,25 +236,6 @@ AI Experiment
 
 @snap[south span-100 feature-details]
 [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
-@snapend  
-
-
-+++?image=assets/img/audience.png&size=100% 40%
-
-@snap[north-east raleway-medium span-55]
-#### Loomio@css[faded text-05](.org)
-@snapend
-
-@snap[east span-50]
-![](assets/img/loomio.png)
-@snapend
-
-@snap[west span-40 pro-feature-details]
-@fa[quote-left] Loomio is an app that helps people have discussions and make decisions together
-@snapend
-
-@snap[south span-100 feature-details]
-[Loomio.org](https://www.loomio.org/)
 @snapend  
 
 +++?image=./images/sli_do.png&size=100% 40%
