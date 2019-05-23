@@ -14,12 +14,12 @@
 ## @css[faded text-05](Agenda)
 @snapend
 
-- 13:00 – 13:15    Velkommen
-- 13:15 – 14:00    Jeres Opgave - 4 grupper
-- 14:00 – 14:15    Pause
-- 14:15 – 15:00    Sjov med innovativ IT
-- 15:00 – 15:45    Hans
-- 15:45 – 16:00    Opsamling/Spørgsmål
+- 13:00 – 13:15    @css[faded text-05](Velkommen)
+- 13:15 – 14:00    @css[faded text-05](Jeres Opgave - 4 grupper)
+- 14:00 – 14:15    @css[faded text-05](Pause)
+- 14:15 – 15:00    @css[faded text-05](Sjov med innovativ IT)
+- 15:00 – 15:45    @css[faded text-05](Hans)
+- 15:45 – 16:00    @css[faded text-05](Opsamling/Spørgsmål)
 
 @snap[south span-100 feature-details]
 [https://gitpitch.com/hellstern/hk](https://gitpitch.com/hellstern/hk)
