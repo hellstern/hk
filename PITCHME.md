@@ -195,10 +195,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 
 @snap[west span-40 pro-feature-details]
 @fa[quote-left] Every Question Matters.
-The Ultimate Q&A and Polling Platform for Company Meetings and Events
-
-#HK2305
-
+The Ultimate Q&A and Polling Platform for Company Meetings and Events (#HK2305)
 @snapend
 
 @snap[south span-100 feature-details]
