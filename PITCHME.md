@@ -22,7 +22,7 @@
 - 13:15 – 14:00    @css[faded text-08]( Jeres Opgave - 4 grupper)
 - 14:00 – 14:15    @css[faded text-08]( Pause)
 - 14:15 – 15:00    @css[faded text-08]( Sjov med innovativ IT)
-- 15:00 – 15:45    @css[faded text-08]( Hans)
+- 15:00 – 15:45    @css[faded text-08]( Innovation og Kreativitet)
 - 15:45 – 16:00    @css[faded text-08]( Opsamling/Spørgsmål)
 
 @snap[south span-100 feature-details]
