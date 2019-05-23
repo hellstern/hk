@@ -188,14 +188,11 @@ Thanks to first-class support for modular markdown you can develop and publish m
 - Big data Samle data på medlemmer som ringer ind (big data)
 - Trække data ud af 360
 
-
-
 +++
 
 @snap[north-west montserrat-heavy heading-black]
 ## Jeres @css[faded text-05](Robot)
 @snapend
-
 
 @css[faded text-05](Helle Folmann, Björg Hanne Hansen, Anne Bysted, Hanne Anthony)
 
@@ -206,20 +203,17 @@ Thanks to first-class support for modular markdown you can develop and publish m
 - Softwarerobot - svare på ofte stillede spørgsmål
 - Bookning af lokaler - robot/automatisering
 
-
 +++
 
 @snap[north-west montserrat-heavy heading-black]
 ## Jeres @css[faded text-05](App)
 @snapend
 
-
 @css[faded text-05](Line Eggert Suse, Jonas Thorbjørn Andersen, Jesper Kampmann)
 
 - App - HK på farten, OK, tilbud, chatfunktion mv.
 - Medlemmer adgang til egen status - f.eks. Hvad de skylder på Mit HK
 - Samkørselsordning på tværs af landet - portal hvor man melder sig på
-
 
 +++
 
@@ -230,6 +224,7 @@ Thanks to first-class support for modular markdown you can develop and publish m
 
 @css[faded text-05](Vibeke Mytysia, Pamela Sheena Banfeldt)
 
+---
 
 @snap[north-west montserrat-heavy heading-black]
 ## Sjov med innovativ @css[faded text-05](IT)
