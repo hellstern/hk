@@ -180,12 +180,12 @@ Thanks to first-class support for modular markdown you can develop and publish m
 
 @css[faded text-05](Dorit Henriette Svendsen, Dorthe Jørgensen, Aase Lohmann)
 
-- Big data (360) - kategorisere opkaldsårsag, data til f.eks. opdatering af hjemmeside
-- Bigdata konkrete svar fra OK mv. - opdaterede data Big data - hvem ringer, hvorfor, kommer de tilbage o.s.v.
-- Benytte medlemsoplysninger (f.eks. tlf.nr,) til div. tilbud
-- Bigdata - hvem ringer, hvorfor, kommer de tilbage o.s.v.
+- Big data (360) - Kategorisere opkaldsårsag, data til f.eks. opdatering af hjemmeside
+- Bigdata konkrete svar fra OK mv.
+- Benytte medlemsoplysninger til div. tilbud
+- Hvem ringer, hvorfor, kommer de tilbage o.s.v.
 - Alle medlemsdata ind i “watson” 
-- Big data Samle data på medlemmer som ringer ind (big data)
+- Data på medlemmer som ringer ind
 - Trække data ud af 360
 
 +++
