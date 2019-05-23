@@ -19,10 +19,10 @@
 @snapend
 
 - 13:00 – 13:15    @css[faded text-08]( Velkommen)
-- 13:15 – 14:00    @css[faded text-08]( Jeres Opgave - 4 grupper)
-- 14:00 – 14:15    @css[faded text-08]( Pause)
-- 14:15 – 15:00    @css[faded text-08]( Sjov med innovativ IT)
-- 15:00 – 15:45    @css[faded text-08]( Innovation og Kreativitet)
+- 13:15 – 13:45    @css[faded text-08]( Jeres Opgave - 4 grupper)
+- 13:45 – 14:00    @css[faded text-08]( Pause)
+- 14:00 – 14:30    @css[faded text-08]( Sjov med innovativ IT)
+- 14:30 – 15:45    @css[faded text-08]( Innovation og Kreativitet)
 - 15:45 – 16:00    @css[faded text-08]( Opsamling/Spørgsmål)
 
 @snap[south span-100 feature-details]
@@ -172,7 +172,64 @@ Thanks to first-class support for modular markdown you can develop and publish m
 - App
 - Robot
 
----
++++
+
+@snap[north-west montserrat-heavy heading-black]
+## Jeres @css[faded text-05](Big Data)
+@snapend
+
+@css[faded text-05](Dorit Henriette Svendsen, Dorthe Jørgensen, Aase Lohmann)
+
+- Big data (360) - kategorisere opkaldsårsag, data til f.eks. opdatering af hjemmeside
+- Bigdata konkrete svar fra OK mv. - opdaterede data Big data - hvem ringer, hvorfor, kommer de tilbage o.s.v. (er der pt. Derfor bruge systemet på smartere måde)
+- Benytte medlemsoplysninger (f.eks. tlf.nr,) til div. tilbud
+- Bigdata - hvem ringer, hvorfor, kommer de tilbage o.s.v. (er der pt. Derfor bruge systemet på smartere måde) 
+- Alle medlemsdata ind i “watson” 
+- Big data Samle data på medlemmer som ringer ind (big data)
+- Trække data ud af 360
+
+
+
++++
+
+@snap[north-west montserrat-heavy heading-black]
+## Jeres @css[faded text-05](Robot)
+@snapend
+
+
+@css[faded text-05](Helle Folmann, Björg Hanne Hansen, Anne Bysted, Hanne Anthony)
+
+- Chatrobot som spørger ind ved f.eks. Ved udmeldelse
+- Robot til gennemlæsning af ansættelseskontrakter, lønsedler mv.
+- Softwarerobot til at holde styr på outlook
+- Regnearksrobot - f.eks. til at gennemgå lønsedler
+- Softwarerobot - svare på ofte stillede spørgsmål
+- Bookning af lokaler - robot/automatisering
+
+
++++
+
+@snap[north-west montserrat-heavy heading-black]
+## Jeres @css[faded text-05](App)
+@snapend
+
+
+@css[faded text-05](Line Eggert Suse, Jonas Thorbjørn Andersen, Jesper Kampmann)
+
+- App - HK på farten, OK, tilbud, chatfunktion mv.
+- Medlemmer adgang til egen status - f.eks. Hvad de skylder på Mit HK
+- Samkørselsordning på tværs af landet - portal hvor man melder sig på
+
+
++++
+
+@snap[north-west montserrat-heavy heading-black]
+## Jeres @css[faded text-05](Synlighedsarrangementer)
+@snapend
+
+
+@css[faded text-05](Vibeke Mytysia, Pamela Sheena Banfeldt)
+
 
 @snap[north-west montserrat-heavy heading-black]
 ## Sjov med innovativ @css[faded text-05](IT)
