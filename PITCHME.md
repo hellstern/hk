@@ -9,9 +9,8 @@
 #### @css[text-smallcaps text-18](Hans & Tue)
 @snapend
 
----?image=assets/img/hk_oversigt.jpg
-
-### No apologies needed.
+---
+![HK Oversigt](assets/img/hk_oversigt.jpg)
 
 ---
 
