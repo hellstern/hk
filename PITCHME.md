@@ -9,17 +9,22 @@
 #### @css[text-smallcaps text-18](Hans & Tue)
 @snapend
 
+---?image=assets/img/hk_oversigt.jpg
+
+### No apologies needed.
+
 ---
+
 @snap[north-west montserrat-heavy heading-black]
 ## @css[faded text-05](Agenda)
 @snapend
 
-- 13:00 – 13:15    @css[faded text-07]( Velkommen)
+- 13:00 – 13:15    @css[faded text-08]( Velkommen)
 - 13:15 – 14:00    @css[faded text-08]( Jeres Opgave - 4 grupper)
-- 14:00 – 14:15    @css[faded text-09]( Pause)
-- 14:15 – 15:00    @css[faded text-10]( Sjov med innovativ IT)
-- 15:00 – 15:45    @css[faded text-11]( Hans)
-- 15:45 – 16:00    @css[faded text-12]( Opsamling/Spørgsmål)
+- 14:00 – 14:15    @css[faded text-08]( Pause)
+- 14:15 – 15:00    @css[faded text-08]( Sjov med innovativ IT)
+- 15:00 – 15:45    @css[faded text-08]( Hans)
+- 15:45 – 16:00    @css[faded text-08]( Opsamling/Spørgsmål)
 
 @snap[south span-100 feature-details]
 [https://gitpitch.com/hellstern/hk](https://gitpitch.com/hellstern/hk)
