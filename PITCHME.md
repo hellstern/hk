@@ -172,6 +172,8 @@ Thanks to first-class support for modular markdown you can develop and publish m
 - App
 - Robot
 
+---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
 ---
 
 @snap[north-west montserrat-heavy heading-black]
