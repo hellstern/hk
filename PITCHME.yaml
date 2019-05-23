@@ -40,7 +40,7 @@ layout : center
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Markdown Presentation Service on Git"
+title : "IT & Innovation"
 description : "The Fastest Way from Idea to Presentation for everyone on GitHub, GitLab, and Bitbucket."
 # thumbnail : assets/img/thumbnail.png
 
@@ -48,7 +48,7 @@ description : "The Fastest Way from Idea to Presentation for everyone on GitHub,
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "HK & CPHBUSINESS"
 
 #
 # Published Setting
