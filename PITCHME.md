@@ -10,9 +10,6 @@
 @snapend
 
 ---
-![HK Oversigt](assets/img/hk_oversigt.jpg)
-
----
 
 @snap[north-west montserrat-heavy heading-black]
 ## @css[faded text-05](Agenda)
